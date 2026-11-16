@@ -128,7 +128,7 @@ The detailed backlog and exit criteria are in the [implementation roadmap](docs/
 | [Database design](docs/05-database-design.md) | Entity model, table definitions and integrity rules |
 | [API contract](docs/06-api-contract.md) | Proposed endpoints, payloads, errors and authorization |
 | [UX and accessibility](docs/07-ux-localization-accessibility.md) | Navigation, language, voice and primary user journeys |
-| [Security and privacy](docs/08-security-and-privacy.md) | Threats, access control, privacy and marketplace safety |
+| [Security and privacy](docs/08-security-privacy-safety.md) | Threats, access control, privacy and marketplace safety |
 | [Testing strategy](docs/09-testing-and-quality.md) | Test layers, quality gates and acceptance checks |
 | [Implementation roadmap](docs/10-implementation-roadmap.md) | Milestones, workstreams, dependencies and release gates |
 | [Deployment and operations](docs/11-deployment-and-operations.md) | Environments, CI/CD, monitoring, backups and incident response |
